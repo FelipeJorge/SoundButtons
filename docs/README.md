@@ -2,7 +2,7 @@
 
 Alura Midi
 
-Projeto final para aprendizado em javascrit, adicionando sons aos 'buttons', e também a navegação via teclado.
+Projeto final para aprendizado em javascript, adicionando sons aos 'buttons', e também a navegação via teclado.
 
 
 ------------ Link do projeto - https://felipejorge.github.io/SoundButtons/
