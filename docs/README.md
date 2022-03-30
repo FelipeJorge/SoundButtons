@@ -1,5 +1,7 @@
 # SoundButtons
-Projeto Alura Midi 
+
+Alura Midi
+
 Projeto final para aprendizado em javascrit, adicionando sons aos 'buttons', e também a navegação via teclado.
 
 
